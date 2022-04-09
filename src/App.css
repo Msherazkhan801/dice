@@ -1,0 +1,14 @@
+.btn{
+    background-color: rgb(20, 97, 168);
+    color: aliceblue;
+    border: 0.2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.bt:hover{
+    background-color: rgb(184, 160, 55);
+    color: rgb(0, 0, 0); 
+}
+.text-result{
+    font-weight: bold;
+}
