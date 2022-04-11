@@ -1,3 +1,3 @@
-import Starter from './DiceExercise.js';
+import Starter from './component/DiceExercise.js';
 
 export default Starter;

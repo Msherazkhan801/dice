@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import Application from './Starter.js';
+import Application from './component/DiceExercise';
 
 function App() {
   return (
